@@ -7,6 +7,7 @@ Upload and read PDF files
 Text chunking and embeddings
 Semantic search using FAISS
 AI-powered question answering
+
 🛠 Tech Stack
 Python
 Streamlit
